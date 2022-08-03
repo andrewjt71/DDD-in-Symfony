@@ -24,6 +24,7 @@ DDD can be applied to a Symfony based project.
 - <a href="https://martinfowler.com/tags/domain%20driven%20design.html">Martin Fowler's website</a>
 - <a href="https://verraes.net/2021/09/what-is-domain-driven-design-ddd/">Mathias Verraes' website</a>
 - <a href="https://www.cosmicpython.com/book/preface.html">Architecture Patterns with Python <i>by Harry J.W Percival & Bob Gregory</i></a>
+- <a href="https://eventsourcery.com/">Event Sourcery video course</a>
 
 ## Disclaimers
 
